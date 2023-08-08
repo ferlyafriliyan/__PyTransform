@@ -66,7 +66,18 @@ _________________=_____(_______("\137\x5f\137\x5f\137\x5f\x5f\137\137\137\137\56
 ```
 
 -----
-
+## - Run a Termux :
+```python
+$ termux-setup-storage
+$ termux-change-repo
+$ pkg update && pkg upgrade -y
+$ pkg install git
+$ pkg install python -y
+$ pkg install python-pip
+$ git clone https://github.com/ferlyafriliyan/__PyTransform
+$ cd __PyTransform
+$ python __python3__Run.py
+```
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
