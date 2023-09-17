@@ -18,7 +18,8 @@ It allows you to obfuscate your script with more than 10 layers, while keeping i
 <br>
 very compact (one file) and executable on any os/python version.
 <br><br></strong>
-<img src="https://raw.githubusercontent.com/ferlyafriliyan/__PyTransfrom/main/assets/__Pytransform.png" width="1202", height="642">
+        
+![img](https://raw.githubusercontent.com/ferlyafriliyan/__PyTransform/main/assets/Screenshot_20230917_072712_Termux.jpg)
 </p>
 <br>
 
