@@ -77,7 +77,7 @@ $ pkg install python -y
 $ pkg install python-pip
 $ git clone https://github.com/ferlyafriliyan/__PyTransform
 $ cd __PyTransform
-$ python __python3__Run.py
+$ python Run.py
 ```
 ### <p align="center">⭐ Features ⭐</p>
 
